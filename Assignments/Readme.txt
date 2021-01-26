@@ -1,1 +1,1 @@
-This folder includes codes related to different assignments of computer graphics written using OpenGL. 
+This folder includes codes related to different assignments of computer graphics developed using OpenGL. 
