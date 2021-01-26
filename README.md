@@ -1,2 +1,2 @@
 # Computer-Graphics
-This repository includes code related to computer graphics written using OpenGL
+This repository includes code related to computer graphics developed using OpenGL
